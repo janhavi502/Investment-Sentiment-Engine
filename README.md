@@ -32,7 +32,7 @@ It uses FinBERT, a transformer-based model trained on financial text, to analyze
 
 ## 📊 Dashboard Preview
 
-<img src="https://raw.githubusercontent.com/your-username/sentiment-app/main/dashboard_preview.png" width="800"/>
+<img src="Images/Dashboard.png" width="800"/>
 
 ---
 
